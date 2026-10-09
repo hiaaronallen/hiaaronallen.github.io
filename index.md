@@ -8,7 +8,10 @@ title: Hello
 
 [Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+ Hi, I'm Aaron, a software engineer.
+ I believe software engineering is categorized as rocket science, and a software engineer should have a variety of knowledge about technology, tools, and business domains. Therefore, I am dedicating my whole life to learning and practicing technology around the clock.
+
+ Here's a little peek into my life and whatever's on my mind.
 
 **Stop worrying about the style, focus on your writing.**
 
