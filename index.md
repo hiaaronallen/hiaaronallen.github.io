@@ -6,7 +6,7 @@ title: Hello
 
 ## Hi!
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+
 
  Hi, I'm Aaron, a software engineer.
  I believe software engineering is categorized as rocket science, and a software engineer should have a variety of knowledge about technology, tools, and business domains. Therefore, I am dedicating my whole life to learning and practicing technology around the clock.
